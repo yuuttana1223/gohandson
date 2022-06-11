@@ -1,5 +1,7 @@
 package main
 
+import "fmt"
+
 // TODO: fmtパッケージをインポートする
 
 func main() {
